@@ -1,0 +1,11 @@
+{
+    "com_name": "/dev/tty.usbserial-AB0L7JSR",
+    "bit_rate": 115200,
+    "impedance_sever": 2000,
+    "impedance_diff": 200,
+    "if_filter":false,
+    "api_server":"http://101.200.216.197:9011",
+    "server_ip":"127.0.0.1",
+    "save_path":"d:/data/",
+    "server_port":8765
+}
